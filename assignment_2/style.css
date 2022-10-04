@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: #0000FF;
+}
+
+h3 {
+  color: rgb(255, 255, 0);
+}
+
+h4 {
+  color: hsl(24, 100%, 50%);
+}
+
+.headings_container {
+  background-color: rgb(0, 0, 0);
+}
